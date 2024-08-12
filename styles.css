@@ -23,6 +23,13 @@ header {
     padding: 10px 0;
 }
 
+.header_image{
+    max-width: 100%;
+}
+.howItWorks {
+    max-width: 100%;
+}
+
 .logo img {
     width: 30px; /* the fireplace thingy aka Small logo size for mobile */
     vertical-align: middle;
